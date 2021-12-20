@@ -11,7 +11,7 @@ We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we
 
  - 2,try another epsilon-greedy algorithm to fit this game.
 
-We still have these problems:
+###We still have these problems:
 
  - 1,The agent's behavior is not good enough after training(try   
    policy-based algorithm in the future).
