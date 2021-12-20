@@ -3,7 +3,7 @@
 ![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(3).png)
 ![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(2).png)
 
-We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we use a Q-network to replace Q-function) and DDQN with these changes:
+### We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we use a Q-network to replace Q-function) and DDQN with these changes:
 
  - 1,every t episodes draw a terminal-reward figure
 
