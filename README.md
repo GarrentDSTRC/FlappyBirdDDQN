@@ -1,17 +1,17 @@
 
 ## Playing Flappy Bird Using Deep Reinforcement Learning (Based on Double Q Learning and DDQN)
-![](README_md_files%5Cimage%20%282%29.png?v=1&type=image)
-![](README_md_files%5Cimage%20%283%29.png?v=1&type=image)[](README_md_files%5Cimage.png?v=1&type=image)
+![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(3).png)
+![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(2).png)
 
-We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we use a Q-network to replace Q-function) and DDQN with these changes:
+### We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we use a Q-network to replace Q-function) and DDQN with these changes:
 
  - 1,every t episodes draw a terminal-reward figure
 
-![DDQN](README_md_files%5CReal-1600-change-epsilon0.2-0.1-greedy-algorithm2.png?v=1&type=image)
+![DDQN](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/main/README_md_files/Real-1600-change-epsilon0.2-0.1-greedy-algorithm2.png)
 
  - 2,try another epsilon-greedy algorithm to fit this game.
 
-We still have these problems:
+### We still have these problems:
 
  - 1,The agent's behavior is not good enough after training(try   
    policy-based algorithm in the future).
@@ -25,7 +25,7 @@ We still have these problems:
  - 5,It seems to have over-fitting problem.
 
 ## Result
-![输入图片描述](README_md_files%5Cdouble-QN-real-70000%20%2000_00_00-00_00_30.gif?v=1&type=image)
+![DDQN-1600episodes](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/main/README_md_files/double-QN-real-70000%20%2000_00_00-00_00_30.gif)
 
 ## About the code
 
