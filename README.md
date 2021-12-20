@@ -1,7 +1,7 @@
 
 ## Playing Flappy Bird Using Deep Reinforcement Learning (Based on Double Q Learning and DDQN)
-![](README_md_files%5Cimage%20%282%29.png?v=1&type=image)
-![](README_md_files%5Cimage%20%283%29.png?v=1&type=image)[](README_md_files%5Cimage.png?v=1&type=image)
+![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(3).png)
+![](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/master/README_md_files/image%20(2).png)
 
 We rewrite the code from Flood Sun's Framework based on Double Q Learning(but we use a Q-network to replace Q-function) and DDQN with these changes:
 
@@ -25,7 +25,7 @@ We still have these problems:
  - 5,It seems to have over-fitting problem.
 
 ## Result
-![输入图片描述](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/main/README_md_files/double-QN-real-70000%20%2000_00_00-00_00_30.gif)
+![DDQN-1600episodes](https://github.com/GarrentDSTRC/FlappyBirdDDQN/blob/main/README_md_files/double-QN-real-70000%20%2000_00_00-00_00_30.gif)
 
 ## About the code
 
